@@ -6,3 +6,9 @@
     -webkit-font-smoothing: antialiased;
 
 }
+.title{
+    background-color: #ff253a;
+    width: 300px;
+    height: 200px;
+    margin: auto;
+}
