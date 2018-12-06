@@ -16,5 +16,10 @@
     font-size: 20px;
     color: white;
     margin: auto;
-    
+
+}
+.title h2{
+    font-size: 19px;
+    color: green;
+    margin: auto;
 }
